@@ -1,5 +1,7 @@
 # APS-Backend-for-Web-MobileApp-IoT
-APS includes Complete system consisting of Mobile App , Web App and IoT to provide efficient management to companies and efficient parking experience to users. This Repository contains only Backend Material.    
+APS includes Complete system consisting of Mobile App , Web App and IoT to provide efficient management to companies and efficient parking experience to users. This Repository contains only Backend Material of IoT and Web App.  
+Backend of Mobile App is pushed on my another github account, JawadHaider1355. JawadHaider1355 github account's repository is updated repository of Automated Parking System having backend of IoT, Web and Mobile App. JawadHaider1355 github account's repository APSBackend is deployed on Railway App also.  
+
   
 -> Mobile App is for end users of any company who want to park,they first need to book its parking from Mobile App.  
   
